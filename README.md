@@ -10,6 +10,3 @@ This is an online e-commerce platform built with Django. It provides a user-frie
 - Order management system
 - Payment gateway integration
 
-## Installation
-
-Clone the repository:
